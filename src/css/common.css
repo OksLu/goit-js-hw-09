@@ -25,7 +25,8 @@ img {
   font-size: 60px;
 }
 
-[data-start] {
+[data-start],
+[data-stop] {
   font-size: 25px;
 }
 
